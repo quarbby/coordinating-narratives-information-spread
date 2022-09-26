@@ -1,7 +1,8 @@
 ## Coordinating Narratives Framework 
 
 ```
-Paper: Ng L H X, Cruickshank I., Carley K M. Cross-Platform Information Spread During the January 6th Capitol Riots. Social Network Analysis and Mining. Under Review
+Paper: 
+Ng, L. H. X., Cruickshank, I. J., & Carley, K. M. (2022). Cross-platform information spread during the January 6th capitol riots. Social Network Analysis and Mining, 12(1), 1-16.
 ```
 
 Code written by: Lynnette Ng, Iain Cruickshank; 2021
